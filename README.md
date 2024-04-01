@@ -1,2 +1,2 @@
 # docker
-# this my test container running a python application
+# the docker containerization modules..
